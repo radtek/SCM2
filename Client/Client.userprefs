@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UI\InBattle\UnitPosSelUI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\UI\InBattle\UnitPosSelUI.cs" Line="32" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\xiaojl\Documents\GitHub\SCM2\Client\Assets\Scripts\MapScene\Room4Client.cs" line="368" column="1" />
+      <Breakpoint file="C:\Users\xiaojl\Documents\GitHub\SCM2\Client\Assets\Scripts\Common\Battle\MapGrid.cs" line="42" column="1" />
+      <Breakpoint file="D:\GitHub\SCM2\Client\Assets\Scripts\MapScene\Room4Client.cs" line="396" column="1" />
+      <Breakpoint file="D:\GitHub\SCM2\Client\Assets\Scripts\MapScene\MapUnits\UnitBuilding.cs" line="68" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,174 @@
+﻿将消耗	will cost
+积分	point
+积分 	points
+胜率	Win rate
+胜	W
+负	L
+确认	Confirn
+解锁:	Unlock:
+建造费用	Cost
+积分余额：	Point：
+胜率	Win rate
+胜	W
+负	L
+解锁:	Unlock:
+建造费用	Cost
+对地	Ground
+对空	Air
+<color=green>是</color>	<color=green>Yes</color>
+<color=red>否</color>	<color=red>No</color>
+攻击力	Damage
+建造时间	Build time
+生命值	Life
+防御	Armor
+当前积分余额不足！	Not enough point.
+解锁	Unlock
+取消	Cancel
+是	Yes
+否	No
+该区域不可建造	Can not build it in this position.
+部队尚未就绪	Not ready.
+没有多余的矿机位置	Enough miners.
+无法建造更多仓库	Enough depots.
+积分+1	Point +1
+点击观看广告，完整观看可获1积分	Watch whole ad and get 1 point
+录像结束	Replay ends
+该区域不可建造	Cannot build it in this position.
+部队尚未就绪	Not ready.
+矿机已满	Enough miner.
+生物攻击 +15%	Biological damage +15%
+生物防御 +1	Biological armor +1
+机械攻击 +15%	Mechanical damage +15%
+机械防御 +1	Mechanical armor +1
+空中攻击 +15%	Air damage +15%
+空中防御 +1	Air armor +1
++200 晶矿	+200 Mine
++100 瓦斯	+100 Gas
++100 晶矿  +50 瓦斯	+100 Mine  +50 Gas
++150 晶矿  +75 瓦斯	+150 Mine  +75 Gas
++200 晶矿  +100 瓦斯	+200 Mine  +100 Gas
++150 瓦斯	+150 Gas
++300 晶矿	+300 Mine
++200 瓦斯	+200 Gas
++400 晶矿	+400 Mine
+
+每次比赛取得胜利均有几率解锁一个随机头像	Probability unlock after victory.
+
+机枪兵	Soldier
+喷火兵	Flamer
+狙击手	Sniper
+磁暴蛛	Mine\nSpider
+机器人	Robot
+坦克	Tank
+雷神	Thor
+攻城车	Siege\nVehicle
+战斗机	Fighter
+巨舰	Warship
+空降兵	Carrier
+基地	Base
+指挥中心	Alert\nCenter
+军事要塞	Fortress
+矿机	Miner
+仓库	Depot
+瓦斯厂	Gas\nFactory
+兵营	Barrack
+守卫	Guard
+生物科技	Biotech
+磁暴科技	Mine\nTech
+狙击科技	Sniper\nTech
+工厂	Factory
+车辆科技	Vehicle\nTech
+雷神科技	Thor\nTech
+攻城科技	Siege\nTech
+机场	Airport
+飞行科技	Air\nTech
+巨舰科技	Warship\nTech
+雷达	Radar
+
+
+机枪兵 	Soldier 
+喷火兵 	Flamer 
+狙击手 	Sniper 
+磁暴蛛 	Mine Spider 
+机器人 	Robot 
+坦克 	Tank 
+雷神 	Thor 
+攻城车 	Siege Vehicle 
+战斗机 	Fighter 
+巨舰 	Warship 
+空降兵 	Carrier 
+基地 	Base 
+指挥中心 	Alert Center 
+军事要塞 	Fortress 
+矿机 	Miner 
+仓库 	Depot 
+瓦斯厂 	Gas Factory 
+兵营 	Barrack 
+守卫 	Guard 
+生物科技 	Biotech 
+磁暴科技 	Mine tech 
+狙击科技 	Sniper tech 
+工厂 	Factory 
+车辆科技 	Vehicle Tech 
+雷神科技 	Thor tech 
+攻城科技 	Siege tech 
+机场 	Airport 
+飞行科技 	Air tech 
+巨舰科技 	Warship tech 
+雷达 	Radar 
+大型防御工事，具有很远的射程。	It's a huge fortress with a long attack range. 
+能侦查到一定范围内的隐形单位。	This building can detect invisible unit in a large area.
+小型防御工事，能侦测到一定范围内的隐形单位。	A guard gun that can attack ground unit and detect invisible unit.
+防空型守卫，能攻击单个空中单位。	Transformed into an anti-air gun now.
+能攻击一定范围内的所有地面单位的守卫，但攻击力较低。	It can attack all the ground unit in a area with lower damage.
+研究后解锁磁暴蛛。	Unlock Mine Spider.
+研究后解锁狙击手。	Unlock Sniper.
+研究后解锁雷神。	Unlock Thor.
+研究后解锁攻城车。	Unlock Siege Vehicle.
+研究后解锁巨舰。	Unlock Battleship.
+对一定范围内进行侦查，可观察该区域动态3秒。	It can investigate a certain area and detect invisible unit for 3 seconds.
+廉价但全能，在较早时期就能形成较大规模。	Low-cost but very functional, get a large-scale force quickly in the early stage.
+机枪兵带领着两只侦查犬的作战小队，行动迅速。	The soldier takes two scout dogs with him.
+经过改造拥有更快速的攻击效率，但相较之下更脆弱。	Attack faster but has less life.
+令轻型单位闻风丧胆的敌人。	The flamer can damage the biological enemies efficiently.
+改进后武器能造成范围杀伤，但攻击力和攻击速度有所削弱。	Decrease attack speed and damage but hit all enemies in a certain range.
+经过改造拥有更高的攻击效率，但相较之下更脆弱。	Attack faster but has less life.
+利用灵活的身躯快速靠近敌人，爆炸还能影响机械的正常运转。	Damage enemies by explosion and make the mechanical unit paralyzed.
+地雷改造型，但能被反隐手段发现。	Transformed into landmine, just can be detected by anti-invisible measures.
+轻量化改造，但只能对单个单位造成伤害和瘫痪。	Cost less resource, but only effect single unit.
+超长的射程就是她最强的武器，敌人还未来得及靠近就可能倒下了。	The long attack range is so powerful that enemies are hard to approach.
+身着隐形迷彩的狙击手，在没被发现时都是巨大的威胁。	The sniper is invisible.
+配备震荡弹的狙击手，能减缓敌方单位的行进速度。	The sniper's attack can slowdown its target's movement.
+从其极其简单的构造能看出这是专为战争制造的机械，方便且高效。	Efficient mechanical unit, born for the war.
+对空强化型机器人，但对地攻击降低。	Anti-air damage is increased, but anti-ground damage is decreased.
+对地强化型机器人，不再拥有对空攻击。	Anti-ground damage is increased, but anti-air damage is removed.
+在这片战场也依然是陆战的代表，以压倒一切的气势前进。	Excellent for ground combat, especially against heavy unit.
+主要武器改为火箭炮，拥有对空火力但削弱了对地火力。	It can attack air unit but anti-ground damage is decreased.
+改造型加农炮，能对地面造成范围攻击。	Cannon  become more powerful which can hit all enemies in a certain range.
+高科技机甲单位，作为陆战之王还拥有对空的攻击火力。	A high technology unit which is powerful on the ground and has anti-air damage.
+对地攻击减弱，获得对空的范围攻击。	Anti-ground damage is decreased but gain anti-air damage in a certain range.
+去除了对空攻击，提升对地攻击。	Anti-air attack is removed and anti-ground damage is increased.
+以无法与作战单位交战为代价，换来无与伦比的攻城利器。	The siege vehicle can not attack enemy's unit, but works efficiently against buildings.
+周身的护盾能反弹受到的伤害，但移动得更慢了。	When the siege vehicle gets damage, the shield reflects 50% damage to attackers.
+拥有能快速突防的机动，但相对脆弱。	The siege vehicle now moves faster but becomes more fragile.
+搭载3个机枪兵的运输机，可以对敌方的防守薄弱处给予沉重打击。	This carrier can transport three soldiers to anywhere in the battlefield.
+搭载1个机器人的运输机，可以对敌方的防守薄弱处给予沉重打击。	This carrier can transport a robot to anywhere in the battlefield.
+隐形战机，无论强袭骚扰都是优秀的选择。	An invisible fighter, but it will become weak after detected.
+抛弃隐形能力的轰炸机，能对地面造成范围伤害。	The invisible ability is removed, now the bomber brings doom to its enemy.
+对空强化改造，能有效打击敌方空中单位。	It's more efficiently to strike enemy's air force with air-to-air missile.
+飞行的堡垒，昂贵的造价带来的是毁灭性的军事力量。	Flying fortress, the ultimate military force.
+快速攻击改造型巨舰，但单次伤害降低。	Laser model, decrease the damage per hit, and also decrease the attack interval.
+慢速攻击改造型巨舰，但单次伤害增加。	Railgun model, increase the damage per hit, and also increase the attack interval.
+多个出兵建筑能加快出兵速度并增加储兵上限。	Multiple army production buildings can increase the product rate and also the amount of unit store.
+可以利用建筑保护好你的资源点。	Use buildings to protect your resource production site.
+获取资源很重要，花掉资源更重要。	Earn the resource is important, consume the resource is more important.
+适时的侦查对方的动向避免措手不及。	Investigate your opponent timely to avoid being caught off guard.
+混合兵种组成的部队更难被克制。	The army contains multiple units is more difficult to be targeted.
+机枪兵廉价脆弱但能很早形成较大规模。	The soldiers are low-cost but can form a large-scale force quickly.
+用喷火兵应对机枪兵很有效。	The flamers perform excellent against soldiers.
+单位的阵型也能左右战局。	The formation of your army you make also influence the result of a battle.
+将关键建筑放在角落处避免暴露意图。	Build your key building at the corner may avoid exposing your purpose.
+仓库能增加储兵上限但不能加快出兵速度。	The depot can increase the amount of unit store but not the product rate.
+约战QQ群：485938613	Send invitation to Q group.
+<color=#00ff00ff>《星际对抗》</color>1.0版\n\n意见或建议请 qq 群反馈。\n<color=#00ff00ff>qq 水群：485938613</color>	<color=#00ff00ff> Star Clash </color>version 1.0\n\nFor any suggestion or question, please contact us with email or comment in store.\n<color=#00ff00ff>Q Group:485938613</color>
+请更新到最新版本！ Please update!
